@@ -186,11 +186,11 @@ h1 {
 }
 
 .profile-img {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid var(--primary);
+    border: 2.5px solid var(--primary);
     animation: float 3s ease-in-out infinite;
 }
 
